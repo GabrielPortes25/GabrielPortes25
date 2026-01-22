@@ -1,8 +1,8 @@
-# Gabriel Subutzki Portes - Back-end Developer
+# Gabriel Subutzki Portes - IOS / Back-end Developer
 ### 🧠 Sobre mim:
 *   Meu nome é Gabriel, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas. <br>
-Tenho foco em desenvolvimento de software, atuando principalmente em back-end web com a linguagem Java, utilizando os frameworks Spring e Spring Boot.<br>
-Também possuo experiência no desenvolvimento de aplicativos iOS, utilizando a linguagem Swift e os frameworks SwiftUI e UIKit (ViewCode).  
+Tenho foco em desenvolvimento de software, atuando principalmente em desenvolvimento IOS com a linguagem Swift, utilizando os frameworks SwiftUI e UIkit.<br>
+Também possuo experiência no desenvolvimento Back-end, utilizando a linguagem Java e o framework SpringBoot.  
 
 ## Ferramentas e Tecnologias: 
 
